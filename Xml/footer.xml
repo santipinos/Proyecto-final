@@ -1,0 +1,42 @@
+﻿<?xml-stylesheet type="text/xsl" href="footer.xsl"?>
+<audi>
+  <secciones>
+    <seccion>
+		<art>Informacion general</art>
+		<art1>Servicios exclusivos</art1>
+		<art2>Plan de matenimiento</art2>
+		<art3>Audi full Drive</art3>
+		<art4>Motores diesel</art4>
+    </seccion>
+	<seccion>
+		<art1>Black line</art1>
+		<art2>Todos los modelos</art2>
+		<art3>Catalogos</art3>
+		<art4>promociones</art4>
+    </seccion>
+	<seccion>
+		<art1>Audi selcition plus</art1>
+		<art2>Buscador</art2>
+		<art3>Vender mi audi</art3>
+		<art4>Financiacion</art4>
+    </seccion>
+	<seccion>
+		<art1>Audi Sport</art1>
+		<art2>Tecnología</art2>
+		<art3>Audi connect</art3>
+		<art4>Quattro</art4>
+    </seccion>
+	<seccion>
+		<art1>Historia</art1>
+		<art2>Eventos</art2>
+		<art3>Magazine</art3>
+		<art4>Apps</art4>
+    </seccion>
+	<seccion>
+		<art1>Nuestros servicios</art1>
+		<art2>Promesas de servicio</art2>
+		<art3>Buscador de concesionarios</art3>
+		<art4>Apps</art4>
+    </seccion>
+  </secciones>
+</audi>

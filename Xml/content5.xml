@@ -1,0 +1,44 @@
+﻿<?xml-stylesheet type="text/xsl" href="content5.xsl"?>
+<audi>
+  <secciones>
+    <seccion>
+		<foto1>../Imagenes/rs5/interior.jpg</foto1>
+		<foto2>../Imagenes/rs5/interior2.jpg</foto2>
+		<foto3>../Imagenes/rs5/motor.jpg</foto3>
+		<art1>
+		
+		El interior deportivo de alta calidad del nuevo Audi RS 5 Sportback 
+		está acabado en color negro, y ofrece espacio para cinco ocupantes. 
+		Su maletero de formas cuadradas y con un generoso hueco de carga que 
+		mide exactamente un metro permite sacar el máximo partido a los 480 
+		litros de capacidad. La naturaleza deportiva del coupé de cinco puertas
+		de altas prestaciones se ve reforzada con detalles como los asientos deportivos
+		RS tapizados opcionalmente en cuero nappa fina con costuras de trama de panal, y
+		con el volante deportivo multifunción RS con su parte inferior plana.
+		</art1>
+		<art2>
+		
+		El motor 2.9 TFSI V6 biturbo combina potencia y eficiencia, y 
+		puede alcanzar 331 kW. El par máximo de 600 Nm está disponible en un 
+		amplio margen, desde 1.900 a 5.000 rpm. El Audi RS 5 Sportback ofrece la 
+		posibilidad de alcanzar una velocidad máxima de 280 km/h. Los dos turbocompresores 
+		del 2.9 TFSI V6 generan una presión de 1.5 bar. La potencia del 2.9 TFSI se transfiere
+		al sistema de tracción integral permanente quattro con diferencial central a través de
+		un cambio tiptronic de ocho relaciones con tiempos de cambio optimizados y especialmente
+		puesto a punto para una conducción deportiva.
+		</art2>
+		<art3>
+		
+		El diseño exterior del nuevo Audi RS 5 Sportback enamora desde
+		el primer segundo gracias a sus curvas con superficies tensas y
+		atléticas. Especialmente cuando se observa el vehículo desde la 
+		parte posterior, la apariencia de los laterales esculpidos resulta 
+		impresionante. Aquí, los blister quattro resaltan los prominentes
+		pasos de rueda, que se han ensanchado en 15 mm en el Audi RS 5 Sportback.
+		En el frontal, presenta una parrilla ancha y plana, grandes tomas de aire
+		con la trama en panal típica de los modelos RS. Los paquetes de diseño Negro
+		brillante, Carbono y Aluminio mate, aumentan las posibilidades de personalización.
+		</art3>
+    </seccion>
+  </secciones>
+</audi>

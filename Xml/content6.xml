@@ -1,0 +1,44 @@
+﻿<?xml-stylesheet type="text/xsl" href="content6.xsl"?>
+<audi>
+  <secciones>
+    <seccion>
+		<foto1>../Imagenes/rs6/interior.jpg</foto1>
+		<foto2>../Imagenes/rs6/interior2.jpg</foto2>
+		<foto3>../Imagenes/rs6/motor.jpg</foto3>
+		<art1>
+			
+			
+			El Audi RS 6 Avant es sinónimo de máxima potencia, 
+			deportividad y diseño ligero inteligente. Un vehículo
+			más ágil y musculoso. El incremento en el placer de conducir 
+			que esto supone no se puede medir en cifras, pero sí en emociones.
+			Sienta el Audi RS 6 Avant, un vehículo con las prestaciones de un
+			vehículo de competición apto para su día a día.
+		</art1>
+		<art2>
+			
+			El Audi RS 6 Avant no es solo irresistiblemente dinámico, 
+			sino también muy eficiente.
+			El sistema Audi cylinder on demand desactiva cuatro de los
+			ocho cilindros si no se necesitan, sin que el conductor lo note.
+			El motor sigue funcionando sin problemas pero requiere menos energía y, 
+			por lo tanto, las emisiones se reducen.
+			
+		</art2>
+		<art3>
+			
+			Las molduras de entrada iluminadas le dan la bienvenida al Audi RS 6 Avant y 
+			las exclusivas inserciones decorativas en fibra de carbono acentúan la atmósfera 
+			deportiva del interior. Un grabado de nido de abeja adorna los asientos deportivos
+			RS disponibles en cuero Valcona como opción, cuya forma contorneada le proporciona 
+			una sujeción lateral excelente incluso en los tramos exigentes.
+			El volante de cuero deportivo multifuncional RS con diseño de 3 radios y 
+			levas de mando de aluminio es agradable de manejar tanto durante la conducción
+			como en el cambio de marchas. El conductor tiene un control intuitivo sobre
+			múltiples funciones del vehículo a través del sistema MMI navegación plus con 
+			MMI touch.
+
+		</art3>
+    </seccion>
+  </secciones>
+</audi>

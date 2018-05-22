@@ -1,0 +1,35 @@
+﻿<?xml-stylesheet type="text/xsl" href="content4.xsl"?>
+<audi>
+  <secciones>
+    <seccion>
+		<foto1>../Imagenes/rs4/interior.jpg</foto1>
+		<foto2>../Imagenes/rs4/interior2.jpg</foto2>
+		<foto3>../Imagenes/rs4/motor.jpg</foto3>
+		<art1>
+		
+		El concepto modular de la nueva generación de motores V6 
+		ofrece un sonido poderoso y distintivo, además de un aumento
+		de empuje y eficiencia sobre versiones anteriores. Un motor único 
+		que también incluye procesos de combustión del ciclo-B y un sistema 
+		de gestión térmica para una mayor eficiencia.
+		</art1>
+		<art2>
+			El nuevo Audi RS 4 Avant llega a su cuarta generación combinando unas excelentes 
+			prestaciones con una gran versatilidad para el uso diario. Déjate seducir por
+			su característico estilo RS. Sus detalles son toda una declaración de su 
+			deportividad: la parrilla Audi Singleframe en forma de panal y emblema RS 
+			4, sus musculosas líneas con pasos de rueda ensanchados, o el sistema de 
+			escape RS opcional con grandes y ovaladas salidas de escape. Toda esta deportividad
+			no le impide proporcionar el espacio necesario para las exigencias de la vida diaria.
+		</art2>
+		<art3>
+			
+			El interior del Audi RS 4 Avant da la bienvenida con un sistema de
+			iluminación y un salpicadero con arquitectura horizontal que proporcionan
+			una gran sensación de amplitud. Además, el predominio del color negro y
+			los asientos tapizados enfatizan el carácter deportivo del nuevo modelo RS.
+
+		</art3>
+    </seccion>
+  </secciones>
+</audi>

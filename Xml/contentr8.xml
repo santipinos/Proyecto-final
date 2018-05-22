@@ -1,0 +1,42 @@
+﻿<?xml-stylesheet type="text/xsl" href="contentr8.xsl"?>
+<audi>
+  <secciones>
+    <seccion>
+		<foto1>../Imagenes/r8/interior.jpg</foto1>
+		<foto2>../Imagenes/r8/interior2.jpg</foto2>
+		<foto3>../Imagenes/r8/motor.jpg</foto3>
+		<art1>
+			
+			El Audi R8 Coupé V10 tiene un motor de 5,2 litros con inyección dual, 
+			una potencia de 397 kW y una capacidad de aceleración de 0 a 100 km / h en
+			solo 3,5 segundos. El sólido bloque motor V10 a 90º proporcionan un centro 
+			de gravedad muy bajo al vehículo. La impresionante combinación de colector 
+			de admisión e inyección directa de combustible dan como resultado un rendimiento
+			mejorado, un consumo reducido y una reducción en las emisiones de escape. El nuevo 
+			R8 Coupé V10 no te dejará indiferente.
+		</art1>
+		<art2>
+			
+			La cabina de mando está creada para el elemento más importante: el conductor. 
+			El volante de cuero R8 permite arrancar y regular el sonido del motor, el modo 
+			de conducción, el infotainment y gracias a sus levas, el cambio de marchas. El 
+			innovador Audi virtual cockpit también está centrado en el conductor: la pantalla 
+			TFT de 12,3 pulgadas muestra toda la información importante con colores brillantes,
+			imágenes y texto de alto contraste. Cada detalle se ha diseñado para satisfacer las
+			máximas exigencias, tanto funcionales como estéticas, incluso los
+			asientos deportivos R8, también disponibles en cuero Nappa de alta 
+			calidad con costura de rombos. Puedes dar rienda suelta a tu creatividad
+			y escoger entre un total de 28 combinaciones de colores distintas.
+		</art2>
+		<art3>
+			
+			Los faros Audi Laser Light opcionales doblan el alcance de los faros LED 
+			de serie llegando a iluminar hasta 600 metros en condiciones de oscuridad. 
+			En cada uno de los faros se emplean potentes diodos láser. Un convertidor
+			transforma el rayo láser azul en una luz blanca adecuada para la carretera, 
+			mejorando así la visión. El láser se activa a partir de los 60 km / h y 
+			complementa la luz LED principal para una mayor visibilidad y seguridad. 
+		</art3>
+    </seccion>
+  </secciones>
+</audi>
